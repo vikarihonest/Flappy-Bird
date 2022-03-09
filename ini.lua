@@ -1,0 +1,9 @@
+appname="AngryBird"
+appver="1.0"
+packagename="com.angrybird"
+appcode="1"
+appsdk="15"
+debugmode=true
+user_permission={
+  "WRITE_EXTERNAL_STORAGE",
+}
